@@ -1,0 +1,6 @@
+@MINIMAL_API___DIO_HostAddress = http://localhost:5032
+
+GET {{MINIMAL_API___DIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
