@@ -5,7 +5,7 @@ using MINIMAL_API___DIO.Dominio.Entidades;
 using MINIMAL_API___DIO.Infraestrutura.Db;
 using MINIMAL_API___DIO.Infrastructure.Interfaces;
 
-namespace MINIMAL_API___DIO.Dominio.Servicos
+namespace MINIMAL_API___DIO.Domain.Servicos
 {
     public class AdminService : IAdminService
     {
